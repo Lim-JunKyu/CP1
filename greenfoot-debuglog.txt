@@ -1,0 +1,14 @@
+Greenfoot run started: Mon Oct 31 13:43:46 KST 2016
+Greenfoot version: 3.0.4
+Java version 1.8.0_92
+Virtual machine: Java HotSpot(TM) Client VM 25.92-b14 (Oracle Corporation)
+Running on: Windows 10 10.0 (x86)
+Java Home: C:\Program Files\Greenfoot\jdk\jre
+----
+Opening project: C:\Program Files\Greenfoot\lib\greenfoot\startupProject
+1477889030213: Listening for JDWP connection on address: javadebug
+Connected to debug VM via dt_shmem transport...
+Communication with debug VM fully established.
+Internal error: Exception when saving package file : java.io.IOException: Error when storing properties to Greenfoot project file: C:\Program Files\Greenfoot\lib\greenfoot\startupProject\project.greenfoot
+Internal error: Exception when saving package file : java.io.IOException: Error when storing properties to Greenfoot project file: C:\Program Files\Greenfoot\lib\greenfoot\startupProject\project.greenfoot
+Exception in thread "Thread-3" java.lang.IncompatibleClassChangeError
